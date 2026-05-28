@@ -1,0 +1,15 @@
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Node (if ever used for tooling)
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+*.zip

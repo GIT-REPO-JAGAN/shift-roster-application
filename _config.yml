@@ -1,0 +1,8 @@
+# GitHub Pages configuration
+title: ShiftScheduler — Kyndryl
+description: Shift roster generator for Kyndryl operations teams
+theme: null
+include:
+  - js/
+  - css/
+  - config/
